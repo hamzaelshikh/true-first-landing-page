@@ -16,6 +16,7 @@ header{
 }
 button{
     background-color: #3882F6;
+    color: white;
 }
 .flex{
     display: flex;
@@ -31,4 +32,39 @@ a{
     justify-content: space-evenly;
     margin-top: 24px;
     margin-bottom: 24px;
+}
+.some-random-info{
+    font-size: 36px;
+    font-weight: bold;
+    color: #1f2937;
+    text-align: center;
+    
+
+}
+
+
+
+.the-random-info{
+    display: flex;
+    justify-content: center;
+}
+p .the-random-info{
+    width: 32px;
+}
+.illustration{
+    margin-right: 32px;
+    width: 200px;
+}
+.third-section{
+    display: flex;
+    color:#1f2937 ;
+    background-color: #E5E7Eb;
+    font-size: 36px;
+    justify-content: center;
+
+
+
+}
+.quote{
+    width: 700px;
 }
