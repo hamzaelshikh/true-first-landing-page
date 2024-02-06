@@ -33,3 +33,26 @@
 .the-sign-up-button{
     margin: 10px;
 }
+.second-page-container{
+    margin: 20px;
+}
+.page-two-title{
+    display: flex;
+    justify-content: center;
+}
+.random-content{
+    display: flex;
+    margin: 30px;
+
+}
+.random-content-item{
+    margin: 10px;
+}
+.third-page-container{
+    margin: 200px;
+}
+.thor{
+    margin-right: auto;
+}
+
+    
