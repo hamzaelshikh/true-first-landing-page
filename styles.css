@@ -23,3 +23,13 @@
     padding:8px ;
     margin-right:auto;
 }
+.first-page-container{
+    display: flex;
+    padding: 60px;
+}
+.first-page-containet{
+    margin-right: auto;
+}
+.the-sign-up-button{
+    margin: 10px;
+}
