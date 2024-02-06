@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header-container{
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+
+}
+.header{
+    display: flex;
+    justify-content: center;
+    width: 900px;
+}
+.header-link{
+    padding:8px ;
+    margin:0px ;
+}
+.header-logo{
+    padding:8px ;
+    margin-right:auto;
+}
