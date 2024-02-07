@@ -8,6 +8,8 @@
     display: flex;
     justify-content: center;
     padding: 30px;
+    background-color: #1F2937;
+    color: white
 
 }
 .header{
@@ -26,12 +28,20 @@
 .first-page-container{
     display: flex;
     padding: 60px;
+    background-color: #1F2937;
+    color: white
+
 }
 .first-page-containet{
     margin-right: auto;
 }
 .the-sign-up-button{
     margin: 10px;
+    padding: 10px;
+    color: white;
+    background-color: #3882F6;
+    position: absolute;
+    top:50%
 }
 .second-page-container{
     margin: 20px;
@@ -50,9 +60,37 @@
 }
 .third-page-container{
     margin: 200px;
+    display: flex;
+    justify-content: center;
+}
+.third-page-content{
+    display: flex;
+    flex-direction: column;
+    margin: 15px;
 }
 .thor{
-    margin-right: auto;
+    align-self: self-end;
 }
-
+.forth-page-container{
+    display: flex;
+    justify-content: center;
+    margin: 100px;
+}
+.forth-page-content{
+    display: flex;
+    justify-content: space-around;
+    width: 500px;
+    height: 150px;
+}
+.the-second-sign-up-button{
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+.footer{
+    display: flex;
+    justify-content: center;
+}
+.footer-content{
+    margin: 30px;
+}
     
